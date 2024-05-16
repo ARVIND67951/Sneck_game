@@ -1,9 +1,9 @@
 // Game Constants &amp; Variables
 let inputDir = {x: 0, y: 0};
-const foodSound = new Audio('');
-const gameOverSound = new Audio('');
-const moveSound = new Audio('');
-const musicSound = new Audio('');
+const foodSound = new Audio('Pagal_Hai_Mai_Kuch_Karna_Java___Ishqan_De_Rog___Deep_Chambal_New_Punjabi_Song_Latest_Punjabi_Songs(128k).m4a');
+const gameOverSound = new Audio('Distance_Love_-_Zehr_Vibe___Yaari_Ghuman___Punjabi_Song_2021(128k).mp3');
+const moveSound = new Audio('Raja_Rani_​⁠@JatinderBrarofficial___New_Punjabi_Songs_2023___latest_Punjabi_songs_2023(128k).m4a');
+const musicSound = new Audio('Chann_Sitare.mp3');
 let speed = 9;
 let score = 0;
 let lastPaintTime = 0;
